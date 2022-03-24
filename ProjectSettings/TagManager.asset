@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Base
+  - Red
+  - Green
+  - Brown
+  - Blue
+  - Chess
+  - Player0
+  - Player1
+  - Player2
+  - Player3
+  - Player4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Tiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 653447119
+    locked: 0
+  - name: Select
+    uniqueID: 3312584783
+    locked: 0
+  - name: Character
+    uniqueID: 1634232023
+    locked: 0
+  - name: Aura
+    uniqueID: 322691863
+    locked: 0

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 91a9107559be5ca49849fe2d3f68771a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - move: {fileID: 2033817973959003805, guid: 7a0a7f17651f91543a3b4d5e161827c5, type: 3}
+  - swap: {fileID: 1160212032648716413, guid: 5cdd6c3e3596e6d4abf2bb75794368ce, type: 3}
+  - attack: {fileID: 8394167172050592473, guid: a1805be501a28e24a882b2f8a986ee84,
+      type: 3}
+  - hover: {fileID: 2172392042686284185, guid: 56074c5a64b51624a89381f7dc9b18aa, type: 3}
+  - suicide: {fileID: 8033389215409352241, guid: 3c347f5e2210fb1478ed6f76c7105576,
+      type: 3}
+  - basic: {fileID: 7037096146034421680, guid: 85d5bf3137661ac4ea177ae7bfe8707a, type: 3}
+  - red: {fileID: 4658198259117226219, guid: e9fef51c3cb0f1e439ca04bfced51514, type: 3}
+  - green: {fileID: 2729526080852980050, guid: 40343c58e4a33ea4fb302d6c113665d9, type: 3}
+  - brown: {fileID: 2228193683101458086, guid: 7f4854af6ae4ef648bf90c92968cd8b0, type: 3}
+  - blue: {fileID: 6297325004537601208, guid: bb08dc386321a93408122bc2cd276cfb, type: 3}
+  executionOrder: 500
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
